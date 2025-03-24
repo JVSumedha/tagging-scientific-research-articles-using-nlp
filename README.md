@@ -7,3 +7,4 @@ It includes:
 * **Evaluation:** Assessing model performance using accuracy, classification reports, and confusion matrices.
 
 This project provides a practical example of applying NLP techniques to classify scientific literature, offering insights into data preprocessing and model selection for text categorization tasks.
+
